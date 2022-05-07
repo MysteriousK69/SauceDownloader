@@ -31,3 +31,5 @@ def main():
     path = input()
     downloadImg(links, path)
     print(f"Sauce downloaded in {path}!")
+
+main()
